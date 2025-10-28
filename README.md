@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Welcome to My GitHub Profile!
 
-<!--
-**King1121-sudo/King1121-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Hello! I'm **King1121-sudo**, a passionate software enthusiast exploring the world of open source.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 **Interests:**
+- ♟️ Chess - Strategic thinking and problem-solving
+- 🎨 AI Art - Exploring creative possibilities with artificial intelligence
+- 💻 Open Source - Learning and contributing to the community
+- 🚀 New Technologies - Always eager to learn and grow
+
+## 🌱 Currently
+
+- 🔍 Exploring GitHub and open source projects
+- 📚 Learning software development best practices
+- 🤝 Looking to connect with fellow developers
+
+## 📫 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/king1121-sudo)
+- 📍 Based in India
+
+---
+
+*"Code is like humor. When you have to explain it, it's bad." - Cory House*
